@@ -1,3 +1,3 @@
 import os
-print ("osname")
+print ("o--sname")
 print (os.name)
